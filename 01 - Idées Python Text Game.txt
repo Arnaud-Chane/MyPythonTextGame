@@ -1,0 +1,14 @@
+Idées pour Python Text Game :
+
+Bounty for characters
+bag items 
+saves
+classes
+names
+to be able to write whatever you want and the game will understand with key words
+craft
+having maps
+write down notes for futur
+fights will be as realistic one : one blow on strategic point and die
+aim part of body
+
